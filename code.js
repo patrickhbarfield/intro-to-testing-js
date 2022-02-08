@@ -1,6 +1,6 @@
 // helloWorld function 
 function sayHello() {
-    return ("Hello, Jane!");
+    return ("Hello, Alex!");
 }
 
 //// helloWorld function
