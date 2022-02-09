@@ -1,6 +1,6 @@
 // helloWorld function 
-function sayHello() {
-    return ("Hello, Pat!");
+function sayHello(input) {
+    return ("Hello, " + input + "!");
 }
 
 //// helloWorld function
